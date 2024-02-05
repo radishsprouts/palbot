@@ -19,14 +19,15 @@
 初回起動時にconfig.ymlが生成されるのでアプリを終了し、ボットトークンやチャンネルIDを書き換えるようお願いします。<br>
 config.ymlを書き換えた後、もう１度起動お願いします。<br>
 <br>
-config.yml<br>
-![rapture_20240205221251](https://github.com/radishsprouts/palbot/assets/3961684/5cd91ba9-0e33-4177-8d90-aa1eff7d5732)<br>
 公開してもいいチャンネル<br>
 ・DISCORD_CHANNEL_ID_PLAYER_LIST<br>
 
 非公開にするチャンネル（管理用）<br>
 ・DISCORD_CHANNEL_ID_COMMAND<br>
 ・DISCORD_CHANNEL_ID_WHITELIST<br>
+<br>
+config.yml<br>
+![rapture_20240205221251](https://github.com/radishsprouts/palbot/assets/3961684/5cd91ba9-0e33-4177-8d90-aa1eff7d5732)<br>
 <br>
 <br>
 ## 使用方法
