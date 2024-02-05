@@ -24,6 +24,9 @@ config.yml<br>
 ・DISCORD_CHANNEL_ID_COMMAND<br>
 ・DISCORD_CHANNEL_ID_WHITELIST<br>
 <br>
+初回起動時にconfig.ymlが生成されるのでアプリを終了し、ボットトークンやチャンネルIDを書き換えるようお願いします。<br>
+config.ymlを書き換えた後、もう１度起動お願いします。<br>
+<br>
 <br>
 ## 使用方法
 以下のアプリコマンドが使用できます。<br>
