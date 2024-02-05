@@ -34,6 +34,10 @@ config.yml<br>
 <br>
 <br>
 ## 使用方法
+プレイヤーリスト表示機能<br>
+![rapture_20240204015357](https://github.com/radishsprouts/palbot/assets/3961684/a6ccb2af-20fc-4672-956d-0f3c267d0905)<br>
+<br>
+<br>
 以下のアプリコマンドが使用できます。<br>
 ![rapture_20240205230358](https://github.com/radishsprouts/palbot/assets/3961684/ff0cf004-2a79-41a3-a29a-4391a1697aef)<br>
 <br>
