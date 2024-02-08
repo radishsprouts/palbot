@@ -32,13 +32,13 @@ config.yml<br>
 ## 使用方法<br>
 #### 簡単なコマンド説明（ドキュメント間に合ってません）<br>
 ##### サーバーのインストール<br>
-```/palserver install <server_name>```<br>
+```/palserver install <サーバー名> <RCONパスワード> <プレイヤー一覧を表示するチャンネル> <RCONポート(任意)> <ホワイトリストを管理するチャンネル(任意)>```<br>
 <br>
 ##### サーバーのアンインストール<br>
-```/palserver uninstall <server_name>```<br>
+```/palserver uninstall <サーバー名>```<br>
 <br>
 ##### インストール済みサーバーの追加<br>
-```/palserver add_installed_server <server_name>```<br>
+```/palserver add_installed_server <サーバー名> <インストールされたパス> <プレイヤー一覧を表示するチャンネル> <ホワイトリストを管理するチャンネル(任意)>```<br>
 <br>
 ボットを起動したら、まず最初にアプリコマンドの/palrcon addserverでサーバーを追加してください。<br>
 ![rapture_20240206062804](https://github.com/radishsprouts/palbot/assets/3961684/8c059f6f-224b-41c4-9fef-7957b74ba386)<br>
