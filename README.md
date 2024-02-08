@@ -45,10 +45,6 @@ config.yml<br>
 ![rapture_20240204015357](https://github.com/radishsprouts/palbot/assets/3961684/a6ccb2af-20fc-4672-956d-0f3c267d0905)<br>
 <br>
 <br>
-以下のアプリコマンドが使用できます。<br>
-![rapture_20240205230358](https://github.com/radishsprouts/palbot/assets/3961684/ff0cf004-2a79-41a3-a29a-4391a1697aef)<br>
-<br>
-<br>
 ホワイトリストを有効にした場合は、新規プレイヤーがログインした時にホワイトリストに追加するかどうか選択できます。<br>
 プレイヤーリストが１０秒ごとに更新されるので、そのタイミングでホワイトリストに追加されていないプレイヤーはキックされます。<br>
 ![rapture_20240205030333](https://github.com/radishsprouts/palbot/assets/3961684/6e994bfc-8628-414a-a52b-26e031d0fd91)<br>
