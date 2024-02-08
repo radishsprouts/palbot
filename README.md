@@ -40,6 +40,30 @@ config.yml<br>
 ##### インストール済みサーバーの追加<br>
 ```/palserver add_installed_server <サーバー名> <インストールされたパス> <プレイヤー一覧を表示するチャンネル> <ホワイトリストを管理するチャンネル(任意)>```<br>
 <br>
+##### サーバーのアップデート<br>
+```/palserver update <サーバー名>```<br>
+<br>
+##### サーバーの起動<br>
+```/palserver start <サーバー名>```<br>
+<br>
+##### サーバーの停止<br>
+```/palserver stop <サーバー名>```<br>
+<br>
+##### サーバーの再起動<br>
+```/palserver restart <サーバー名>```<br>
+<br>
+##### サーバーの定期再起動設定<br>
+```/palserver restart_schedule <サーバー名> <時間リスト(任意)>```<br>
+<br>
+##### サーバーの定期バックアップ設定<br>
+```/palserver backup_schedule <サーバー名> <時間リスト(任意)>```<br>
+<br>
+##### サーバーのロールバック<br>
+```/palserver rollback <サーバー名> <バックアップしたデータ>```<br>
+<br>
+##### サーバーのパラメータ設定<br>
+```/palserver settings <サーバー名> <パラメータ名> <設定値>```<br>
+<br>
 <br>
 プレイヤーリスト表示機能<br>
 ![rapture_20240204015357](https://github.com/radishsprouts/palbot/assets/3961684/a6ccb2af-20fc-4672-956d-0f3c267d0905)<br>
