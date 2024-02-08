@@ -40,16 +40,6 @@ config.yml<br>
 ##### インストール済みサーバーの追加<br>
 ```/palserver add_installed_server <サーバー名> <インストールされたパス> <プレイヤー一覧を表示するチャンネル> <ホワイトリストを管理するチャンネル(任意)>```<br>
 <br>
-ボットを起動したら、まず最初にアプリコマンドの/palrcon addserverでサーバーを追加してください。<br>
-![rapture_20240206062804](https://github.com/radishsprouts/palbot/assets/3961684/8c059f6f-224b-41c4-9fef-7957b74ba386)<br>
-server_name: サーバー名（半角英数字）<br>
-host: パルワールドサーバーのアドレス（例えば127.0.0.1）<br>
-rcon_port: RCONのポート<br>
-rcon_password: PalWorldSettings.iniのAdminPassword<br>
-playerlist_channel: プレイヤー一覧を表示するチャンネル（公開用）<br>
-whitelist_channel: 新規ログインプレイヤーをホワイトリストに追加するか問い合わせするチャンネル（管理用非公開）<br>
-<br>
-whitelist_channelを指定すればホワイトリストが有効、指定しなければホワイトリストは無効になります。<br>
 <br>
 プレイヤーリスト表示機能<br>
 ![rapture_20240204015357](https://github.com/radishsprouts/palbot/assets/3961684/a6ccb2af-20fc-4672-956d-0f3c267d0905)<br>
