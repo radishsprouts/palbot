@@ -53,10 +53,18 @@ RCONポートを変更する場合は指定<br>
 ```/palserver start <サーバー名>```<br>
 <br>
 ##### サーバーの停止<br>
-```/palserver stop <サーバー名>```<br>
+```/palserver stop <サーバー名> <遅延(任意)>```<br>
+サーバーを停止します。遅延を設定すれば指定した秒数後に停止します。<br>
+<br>
+##### サーバーの遅延停止のキャンセル<br>
+```/palserver cancel_stop_delay <サーバー名>```<br>
 <br>
 ##### サーバーの再起動<br>
-```/palserver restart <サーバー名>```<br>
+```/palserver restart <サーバー名> <遅延(任意)>```<br>
+サーバーを再起動します。遅延を設定すれば指定した秒数後に再起動します。<br>
+<br>
+##### サーバーの遅延再起動のキャンセル<br>
+```/palserver cancel_restart_delay <サーバー名>```<br>
 <br>
 ##### サーバーの定期再起動設定<br>
 ```/palserver restart_schedule <サーバー名> <時間リスト(任意)>```<br>
