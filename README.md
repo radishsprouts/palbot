@@ -27,8 +27,13 @@
 <br>
 <br>
 初回起動時にconfig.ymlが生成されるのでアプリを終了し、ボットトークンやチャンネルIDを書き換えるようお願いします。<br>
-DISCORD_BOT_TOKEN: ディスコードボットのToken。Discord Developer Portalからボットを作成し、取得してください。<br>
-DISCORD_CHANNEL_ID_COMMAND: ボットのコマンドを受け付けるチャンネル。基本的に管理用なので非公開のチャンネルにしてください。<br>
+<br>
+**DISCORD_BOT_TOKEN:**<br>
+　ディスコードボットのToken。Discord Developer Portalからボットを作成し、取得してください。<br>
+　[Discord Developer Portal](https://discord.com/developers/applications)<br>
+**DISCORD_CHANNEL_ID_COMMAND:**<br>
+　ボットのコマンドを受け付けるチャンネル。基本的に管理用なので非公開のチャンネルにしてください。<br>
+<br>
 config.ymlを書き換えた後、もう１度起動お願いします。<br>
 <br>
 config.yml<br>
