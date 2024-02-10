@@ -36,8 +36,6 @@
 <br>
 config.ymlを書き換えた後、もう１度起動お願いします。<br>
 <br>
-config.yml<br>
-![rapture_20240206062534](https://github.com/radishsprouts/palbot/assets/3961684/80c63543-e298-4eb5-b4f3-517bd56fcdb4)<br>
 <br>
 ## 使用方法<br>
 #### 簡単なコマンド説明（ドキュメント間に合ってません）<br>
