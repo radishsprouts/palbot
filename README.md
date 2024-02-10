@@ -96,6 +96,11 @@ RCONポートを変更する場合は指定<br>
 ```/palserver settings <サーバー名> <パラメータ名> <設定値>```<br>
 ディスコードの仕様上、選択肢が２５件までなので、settings1、settings2、settings3といった感じで増えています。
 <br>
+##### サーバー一覧の表示<br>
+```/palserver list```<br>
+サーバー一覧を表示。<br>
+PalWorldSettings.iniも出力されます。<br>
+<br>
 <br>
 ##### ゲーム内にメッセージ送信<br>
 ```/palrcon broadcast <サーバー名> <メッセージ>```<br>
